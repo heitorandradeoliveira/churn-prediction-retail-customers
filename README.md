@@ -75,7 +75,7 @@ churn-prediction-retail-customers/
 
 ```
 git clone https://github.com/seunome/churn-prediction-retail-customers.git
-cd realestate-price-predictor
+cd churn-prediction-retail-customers.git
 ```
 
 2. Crie um ambiente virtual (opcional) e instale as dependências:
@@ -89,7 +89,7 @@ pip install -r requirements.txt
    jupyter notebook
    ```
 
-Execute os notebooks em ordem para visualizar todo o pipeline de NLP.
+Execute os notebooks em ordem para visualizar todo o pipeline.
 
 ---
 
