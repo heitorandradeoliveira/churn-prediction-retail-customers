@@ -171,3 +171,17 @@ Matriz Confusão:
 O XGBoost alcançou resultados similares, com leve queda na acurácia e área sob a curva ROC. Ambas as abordagens demonstram equilíbrio entre precisão e recall, mas indicam a necessidade de melhorias para aumentar a sensibilidade à classe de churn.
 
 Esses resultados indicam que os modelos podem ser úteis para monitorar churn, mas é recomendado explorar técnicas adicionais, como ajuste de hiperparâmetros, amostragem balanceada ou inclusão de novas variáveis para melhorar a identificação de clientes em risco de saída.
+
+---
+
+### Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
+
+---
+
+### Contato
+
+LinkedIn: [linkedin.com/in/heitorandradeoliveira](https://linkedin.com/in/heitorandradeoliveira)
+
+---
